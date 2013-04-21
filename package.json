@@ -3,13 +3,13 @@
   "description": "Packaged version of standalone Jamine.",
   "readmeFilename": "README.md",
   "version": "1.3.1",
-  "homepage": "https://github.com/kanzure/jasmine-console",
+  "homepage": "https://github.com/kanzure/jasmine-standalone",
   "author": {
     "name": "Bryan Bishop",
     "email": "kanzure@gmail.com",
     "url": "http://heybryan.org/"
   },
-  "licenses": [{"license": "MIT"}],
+  "license": "MIT",
   "keywords": [
     "jasmine",
     "testing",
@@ -19,11 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kanzure/jasmine-console"
+    "url": "https://github.com/kanzure/jasmine-standalone"
   },
   "bugs": {
-    "url": "https://github.com/kanzure/jasmine-console/issues",
-    "email": "kanzure@gmail.com"
+    "url": "https://github.com/pivotal/jasmine/issues"
   },
   "devDependencies": {
   },
