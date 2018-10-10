@@ -1,7 +1,7 @@
 # jasmine-standalone
 
 This is a node/npm packaged version of
-[Jasmine](https://pivotal.github.com/jasmine/)'s jasmine-standalone version
+[Jasmine](https://jasmine.github.io/)'s jasmine-standalone version
 1.3.3.
 
 It is primarily for the [PhantomJS](http://phantomjs.org/) environment. There
